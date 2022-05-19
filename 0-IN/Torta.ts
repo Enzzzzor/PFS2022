@@ -1,0 +1,10 @@
+console.log ("Unir huevos y azucar, batirlos");
+console.log("Agregar pote de yogur aceite y rayadura de limon");
+console.log("Continuar batiendo hasta unir");
+console.log("Tamizar tarta y polvo de hornea");
+console.log("Unir a la mezcla anterio");
+console.log("Incorporar nueves hasta homogeneizar todos");
+console.log("Enmantecar y enharinar un molde de budin");
+console.log("Verter la masa y llevar al horno");
+console.log("Precalentar a 180° y cocinar durante 35'");
+console.log("Dejar enfriar y espolvorear con azucar impalpable");

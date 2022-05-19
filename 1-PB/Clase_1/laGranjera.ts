@@ -1,0 +1,23 @@
+console.log("Avanzar 1");
+console.log("Vaciar 1");
+console.log("Avanzar 1");
+console.log("Vaciar 1");
+console.log("Avanzar 1");
+console.log("Vacias 1");
+console.log("Avanzar 1");
+console.log("Vaciar 1");
+console.log("Girar a la izquierda");
+console.log("Avanzar 1");
+console.log("Vaciar 1");
+console.log("Avanzar 1");
+console.log("Vaciar 1");
+console.log("Avanzar 1");
+console.log("Vaciar 1");
+console.log("Avanzar 1");
+console.log("Vaciar 1");
+console.log("Avanzar 1");
+console.log("Vaciar 1");
+console.log("Avanzar 1");
+console.log("Vaciar 1");
+console.log("Avanzar 1");
+ 

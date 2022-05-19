@@ -1,0 +1,11 @@
+"use strict";
+exports.__esModule = true;
+var rls = require("readline-sync");
+var primerVuelta = rls.questionFloat("Ingresar los segundos de la primera vuelta:");
+var segundaVuelta = rls.questionFloat("Ingresar los segundos de la segunda vuelta:");
+var terceraVuelta = rls.questionFloat("Ingresar los segundos de la tercera vuelta:");
+var cuartaVuelta = rls.questionFloat("Ingresar los segundos de la cuarta vuelta:");
+var tiempoTotal = primerVuelta + segundaVuelta + terceraVuelta + cuartaVuelta;
+var promedioVueltas = tiempoTotal / 4;
+console.log("Los segundos totales de todas las vueltas es de:", tiempoTotal);
+console.log("Los segundos promedio de las vueltas es de:", promedioVueltas);
